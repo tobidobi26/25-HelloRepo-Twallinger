@@ -7,5 +7,5 @@ Kurze Beschreibung des Projekts: Winführung in Github mit git
 Entwicklungsplattform : Windows 11
 
 Lessons learned
-+ Anlegen GitRepo mit gitgnore und readme
++ Anlegen GitRepo mit gitignore und readme
 + Basic Workflow git <-> Github
