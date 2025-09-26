@@ -12,3 +12,8 @@ Jetzt möchte ich die Änderung auch local haben
 Lessons learned
 + Anlegen GitRepo mit gitignore und readme
 + Basic Workflow git <-> Github
+
+
+     Aenderungen durchgefuehrt
+
+  
